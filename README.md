@@ -5,7 +5,7 @@
 A science postgraduate looking to migrate into software engineering and data analytics, aiming to contribute to solving real world problems in the technology industry. During my research, I was introduced to the benefits of programming in the analysis and correlation of large sets of data and now wants to explore opportunities where I can add such value to everyday lives. Having graduated from Bright Network Technology Academy, I am learning about the technology field through Bright Network lifelong learning, side projects and tech conferences.
 
 ### Education
-- PhD, Materials Science | The University of Oxford (November 2021)
+- <ins> PhD, Materials Science | The University of Oxford (November 2021)</ins> 
 - MSc, Polymer Chemistry | The University of Warwick (June 2016)
 - BSc, Chemistry | The University of Warwick (June 2015)
 
