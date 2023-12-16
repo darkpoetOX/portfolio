@@ -32,6 +32,10 @@ The Bamazon Shopping App is a web application that allows users to browse, shop,
 
 Frontend e-commerce website which allows for the purchasing of surfing products i.e. swimming suits, surfer boards, jetskis etc.
 
+**ISS Satelite Client**
+
+Frontend client which uses the International Space Station API to find a satellite's position at a given time, using React. https://github.com/darkpoetOX/lab_any_api_iss_satelite_client
+
 **Deadly Treats Confectionary**
 
 Frontend website which allows for customer order of various sweets and baked goods.
