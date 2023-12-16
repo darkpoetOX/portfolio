@@ -18,7 +18,8 @@ Full-Stack Software Engineering Bootcamp Trainee @ Bright Network (July 2023 - S
 ### Projects
 **TechTails - Virtual Pet**
 
-Group project using Java, SQL and Spring Boot to build a backend for a virtual pet game.​ The user interacts with their pets, feeding and playing with them. https://github.com/darkpoetOX/BackEndProjectGroup4
+Group project using Java, SQL and Spring Boot to build a backend for a virtual pet game.​ The user interacts with their pets, feeding and playing with them. 
+https://github.com/darkpoetOX/BackEndProjectGroup4
 
 **Anna's Restaurant Recommender**
 
