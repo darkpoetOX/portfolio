@@ -8,8 +8,9 @@ A science postgraduate looking to migrate into software engineering and data ana
 - PhD, Materials Science | The University of Oxford (November 2021)
   ***
 - MSc, Polymer Chemistry | The University of Warwick (June 2016)
-- ***
+  ***
 - BSc, Chemistry | The University of Warwick (June 2015)
+  **
 
 ### Work Experience
 Full-Stack Software Engineering Bootcamp Trainee @ Bright Network (July 2023 - September 2023)
