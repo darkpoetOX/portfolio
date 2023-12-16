@@ -28,13 +28,13 @@ Group project using Java, SQL and Spring Boot to build a backend for a virtual p
 
 The Bamazon Shopping App is a web application that allows users to browse, shop, and manage their shopping cart. It provides a user-friendly interface to view and purchase products across. various categories. This was the group capstone project at Bright Network, allowing the blending of all frontend and backend skills to culminate to this full stack app. https://github.com/darkpoetOX/bnta-capstone-fe
 
-**Sea World Surfer**
-
-Frontend e-commerce website which allows for the purchasing of surfing products i.e. swimming suits, surfer boards, jetskis etc.
-
 **ISS Satelite Client**
 
 Frontend client which uses the International Space Station API to find a satellite's position at a given time, using React. https://github.com/darkpoetOX/lab_any_api_iss_satelite_client
+
+**Sea World Surfer**
+
+Frontend e-commerce website which allows for the purchasing of surfing products i.e. swimming suits, surfer boards, jetskis etc.
 
 **Deadly Treats Confectionary**
 
