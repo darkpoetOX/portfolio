@@ -2,7 +2,7 @@
 
 **Technical Skills: Java, HTML, CSS, SQL, JavaScript, NodeJS​, React, Spring Boot, GitHub, GIT**
 
-A science postgraduate looking to migrate into software engineering and data analytics, aiming to contribute to solving real world problems in the technology industry. During my research, I was introduced to the benefits of programming in the analysis and correlation of large sets of data and now wants to explore opportunities where I can add such value to everyday lives. Having graduated from Bright Network Technology Academy, I am learning about the technology field through Bright Network lifelong learning, side projects and tech conferences.
+A science postgraduate looking to migrate into software engineering and data analytics, with the aim of contributing to solving real world problems in the technology industry. During my research, I was introduced to the benefits of programming in the analysis and correlation of large sets of data and now want to explore opportunities where I can add such value to everyday lives. Having graduated from Bright Network Technology Academy, I am learning about the technology field through Bright Network lifelong learning, side projects and tech conferences.
 
 ### Education
 - PhD, Materials Science | The University of Oxford (Nov 2021)
