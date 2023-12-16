@@ -18,15 +18,15 @@ Full-Stack Software Engineering Bootcamp Trainee @ Bright Network (Jul 2023 - Se
 ### Projects
 **TechTails - Virtual Pet**
 
-Group project using Java, SQL and Spring Boot to build a backend for a virtual pet game.​ The user interacts with their pets, feeding and playing with them. (https://github.com/darkpoetOX/BackEndProjectGroup4)
+Group project using Java, SQL and Spring Boot to build a backend for a virtual pet game.​ The user interacts with their pets, feeding and playing with them. https://github.com/darkpoetOX/BackEndProjectGroup4
 
 **Anna's Restaurant Recommender**
 
-Group project using Java, SQL and Spring Boot to build a backend for a virtual pet game.​ The user interacts with their pets, feeding and playing with them. (https://github.com/darkpoetOX/Restaurant_frontend)
+Group project using Java, SQL and Spring Boot to build a backend for a virtual pet game.​ The user interacts with their pets, feeding and playing with them. https://github.com/darkpoetOX/Restaurant_frontend
 
 **Bamazon**
 
-The Bamazon Shopping App is a web application that allows users to browse, shop, and manage their shopping cart. It provides a user-friendly interface to view and purchase products across. various categories. This was the group capstone project at Bright Network, allowing the blending of all frontend and backend skills to culminate to this full stack app. (https://github.com/darkpoetOX/bnta-capstone-fe)
+The Bamazon Shopping App is a web application that allows users to browse, shop, and manage their shopping cart. It provides a user-friendly interface to view and purchase products across. various categories. This was the group capstone project at Bright Network, allowing the blending of all frontend and backend skills to culminate to this full stack app. https://github.com/darkpoetOX/bnta-capstone-fe
 
 **Sea World Surfer**
 
