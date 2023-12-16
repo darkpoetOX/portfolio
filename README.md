@@ -27,6 +27,7 @@ Group project using Java, SQL and Spring Boot to build a backend for a virtual p
 **Bamazon**
 
 The Bamazon Shopping App is a web application that allows users to browse, shop, and manage their shopping cart. It provides a user-friendly interface to view and purchase products across. various categories. This was the group capstone project at Bright Network, allowing the blending of all frontend and backend skills to culminate to this full stack app.
+
 https://github.com/darkpoetOX/bnta-capstone-fe
 
 **Sea World Surfer**
