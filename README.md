@@ -18,7 +18,7 @@ Full-Stack Software Engineering Bootcamp Trainee @ Bright Network (July 2023 - S
 ### Projects
 **TechTails - Virtual Pet**
 Group project using Java, SQL and Spring Boot to build a backend for a virtual pet game.​ The user interacts with their pets, feeding and playing with them.
-**Anna's Restaurant Recommender website**
+**Annas Restaurant Recommender website**
 Group project using Java, SQL and Spring Boot to build a backend for a virtual pet game.​ The user interacts with their pets, feeding and playing with them.
 **Sea World Surfer E-commerce website**
 Frontend website which allows for the purchasing of surfing products i.e. swimming suits, surfer boards, jetskis etc.
