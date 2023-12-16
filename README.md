@@ -6,21 +6,23 @@ A science postgraduate looking to migrate into software engineering and data ana
 
 ### Education
 - PhD, Materials Science | The University of Oxford (November 2021)
-  ***
 - MSc, Polymer Chemistry | The University of Warwick (June 2016)
-  ***
-- BSc, Chemistry | The University of Warwick (June 2015)***
+- BSc, Chemistry | The University of Warwick (June 2015)
 
 ### Work Experience
 Full-Stack Software Engineering Bootcamp Trainee @ Bright Network (July 2023 - September 2023)
 - Worked across both Frontend and Backend Development, utilising various languages and frameworks such as Java and JavaScript
-- Learned Agile methodologies and soft transferable skills used in the commercial environments
+- Learned RESTFUL API routes, Agile methodologies and soft transferable skills used in the commercial environments
 - Collaborated in teams via pair programming and group projects
 
 ### Projects
-**Sea world surfer e-commerce website**
-Frontend website which allows for the purchasing of surfing products i.e. swimming suits, surfer boards, jetskis etc
-**Deadly Treats confectionary website**
-Frontend website which allows for customer order of various sweets and baked goods
+**TechTails - Virtual Pet**
+Group project using Java, SQL and Spring Boot to build a backend for a virtual pet game.​ The user interacts with their pets, feeding and playing with them.
+**Anna's Restaurant Recommender website**
+Group project using Java, SQL and Spring Boot to build a backend for a virtual pet game.​ The user interacts with their pets, feeding and playing with them.
+**Sea World Surfer E-commerce website**
+Frontend website which allows for the purchasing of surfing products i.e. swimming suits, surfer boards, jetskis etc.
+**Deadly Treats Confectionary website**
+Frontend website which allows for customer order of various sweets and baked goods.
 
 
