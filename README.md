@@ -22,7 +22,7 @@ Group project using Java, SQL and Spring Boot to build a backend for a virtual p
 
 **Anna's Restaurant Recommender**
 
-Group project using Java, SQL and Spring Boot to build a backend for a virtual pet game.​ The user interacts with their pets, feeding and playing with them. https://github.com/darkpoetOX/Restaurant_frontend
+Group project using Java, SQL and Spring Boot to build a backend for a virtual pet game.​ The user interacts with their pets, feeding and playing with them. https://github.com/darkpoetOX/Restaurant_frontend. See live website at https://restaurant-recommender-web-page.onrender.com
 
 **Bamazon**
 
